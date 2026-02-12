@@ -11,6 +11,7 @@ export default function Header() {
     { href: "/", label: "Home" },
     { href: "/database", label: "Player Database" },
     { href: "/analysis", label: "Analysis" },
+    { href: "/methods", label: "Methods Guide" },
   ];
 
   return (
